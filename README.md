@@ -9,6 +9,7 @@ CV_detection is a collection of Computer Vision (CV) algorithms focused on the d
 
 ## Installation
 ```bash
+git clone https://github.com/ultralytics/ultralytics.git
 git clone https://github.com/HandsColds/CV_detection.git
 cd CV_detection
 # Follow specific instructions for setting up the environment or dependencies
